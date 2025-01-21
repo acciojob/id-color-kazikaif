@@ -2,15 +2,15 @@
 #yellow{
 	background-color:yellow;
 	border-width:1px;
-border: 1px solid green;
+border-color:green;
 }
 #Red{
 	background-color:red;
 	border-width:1px;
-border: 1px solid black;
+border-color:black;
 }
 #Green{
 	background-color:green;
 	border-width:1px;
-border: 1px solid yellow;
+	border-color:yellow;
 }
